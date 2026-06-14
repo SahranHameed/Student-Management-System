@@ -7,6 +7,8 @@ A modern and responsive Student Management System developed using HTML, CSS, Boo
 
 ## 🚀 Features
 
+---
+
 ### 📊 Dashboard
 
 * Total Students Overview
@@ -15,12 +17,16 @@ A modern and responsive Student Management System developed using HTML, CSS, Boo
 * Class Average Statistics
 * Grade Distribution Chart
 
+---
+
 ### 👨‍🎓 Student Management
 
 * Add New Students
 * Search Students
 * Filter by Department
 * Delete Student Records
+
+---
 
 ### 📝 Marks Management
 
@@ -29,6 +35,8 @@ A modern and responsive Student Management System developed using HTML, CSS, Boo
 * View Marks Overview
 * Calculate Total and Average
 
+---
+
 ### 🏆 Grade Report
 
 * Automatic Grade Calculation
@@ -36,12 +44,16 @@ A modern and responsive Student Management System developed using HTML, CSS, Boo
 * Performance Progress Bar
 * Printable Report
 
+---
+
 ### 📅 Attendance Management
 
 * Mark Daily Attendance
 * Mark All Present / Absent
 * Attendance Summary
 * Attendance Percentage Tracking
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -52,20 +64,28 @@ A modern and responsive Student Management System developed using HTML, CSS, Boo
 * jQuery
 * Bootstrap Icons
 
-## 📂 Project Structure
+---
 
-student-management-system/
+## 📁 Project Structure
+
+```
+Student Management System/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── screenshot.png/
+│
+└── Screenshot.png
+```
+---
 
 ## 💻 How to Run
 
 1. Download or Clone the Repository
 2. Open the project folder
 3. Open index.html in your browser
+
+---
 
 ## 🎯 Learning Outcomes
 
@@ -75,6 +95,8 @@ student-management-system/
 * Data Management using JavaScript
 * Responsive Web Design
 * Bootstrap Components
+
+---
 
 ## 📸 Screenshots
 
