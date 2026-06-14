@@ -1,5 +1,8 @@
 # 🎓 Student Management System
 
+Live Demo: https://sahranhameed.github.io/Student-Management-System/
+
+
 A modern and responsive Student Management System developed using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
 ## 🚀 Features
@@ -54,19 +57,9 @@ A modern and responsive Student Management System developed using HTML, CSS, Boo
 student-management-system/
 │
 ├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── assets/
-│ ├── images/
-│ └── screenshots/
-├── README.md
-└── pages/
-├── students.html
-├── marks.html
-├── grades.html
-└── attendance.html
+├── style.css
+├── script.js
+├── screenshot.png/
 
 ## 💻 How to Run
 
@@ -85,14 +78,19 @@ student-management-system/
 
 ## 📸 Screenshots
 
-Add your project screenshots inside the assets/screenshots folder and update this section.
+![student-management-system/](./Screenshot.png)
+
+---
 
 ## 👨‍💻 Author
 
-Sahran Hameed
+**Sahran Hameed**
+- GitHub: [@SahranHameed](https://github.com/SahranHameed)
+- LinkedIn: [Sahran Hameed](https://www.linkedin.com/in/sahran-hameed/)
+- Portfolio: [sahranhameed.github.io](https://sahranhameed.github.io/My-Portfolio/)
 
 Frontend Developer | Full Stack Learner | Networking & Cloud Security Enthusiast
 
-## ⭐ If you like this project
+## ⭐ If you like this project 
 
-Give it a Star on GitHub.
+Give it a Star on GitHub.⭐
